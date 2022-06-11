@@ -24,7 +24,7 @@ MODEL 1 : 3 Layers with 1 Convolution layer
 <br>
 <br>
 
-<h3>1. Model</h3>
+<h3>1. Model2</h3>
   
 MODEL 2 : 5 Layers with 2 Convolution layer
 ![image](https://user-images.githubusercontent.com/57697721/173184212-5360bafd-9490-4235-8c2a-6260dee382c1.png)
@@ -40,6 +40,7 @@ MODEL 2 : 5 Layers with 2 Convolution layer
 <h3>4. Images and corresponding probability that predicted Right</h3>
 
 ![image](https://user-images.githubusercontent.com/57697721/173184265-3e56af60-86de-4be0-a2c8-83d882fdcc58.png)
+![image](https://user-images.githubusercontent.com/57697721/173185113-bd68bbfa-01ae-411d-959c-dc314638f35d.png)
 
 <h3>5. Images and corresponding probability that predicted Wrong</h3>
 
@@ -49,7 +50,7 @@ MODEL 2 : 5 Layers with 2 Convolution layer
 <br>
 <br>
 
-<h3>3. Model</h3>
+<h3>1. Model3</h3>
   
 MODEL 3 : 7 Layers with 4 Convolution layer 
 ![image](https://user-images.githubusercontent.com/57697721/173184584-5b16dfcd-567f-40ca-99e2-6cb18ab15421.png)
