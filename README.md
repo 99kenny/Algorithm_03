@@ -1,5 +1,6 @@
 # Algorithm_03
-
+20185785 이상윤
+<br>
 <h3>1. Model</h3>
   
 MODEL 1 : 3 Layers with 1 Convolution layer
