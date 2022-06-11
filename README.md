@@ -15,6 +15,7 @@ MODEL 1 : 3 Layers with 1 Convolution layer
 <h3>4. Images and corresponding probability that predicted Right</h3>
 
 ![image](https://user-images.githubusercontent.com/57697721/173183905-390127a0-8877-4d36-922f-a0b1275162b2.png)
+![image](https://user-images.githubusercontent.com/57697721/173185247-107da32e-df07-45ae-8f8c-42d3b35880ec.png)
 
 <h3>5. Images and corresponding probability that predicted Wrong</h3>
 
