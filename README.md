@@ -6,20 +6,19 @@ MODEL 1 : 3 Layers with 1 Convolution layer
 
 <h3>2. Training with Training loss</h3>
 
-![image](https://user-images.githubusercontent.com/57697721/173183833-28c20eb1-afe7-44a3-a17e-b04a4ec09098.png)
+![image](https://user-images.githubusercontent.com/57697721/173224916-561c58c2-d54c-4aed-a198-453a5879eebc.png)
 
 <h3>3. Test Accuracy</h3>
 
-![image](https://user-images.githubusercontent.com/57697721/173183864-48cdee47-ac48-46dc-ba30-eb52413de97c.png)
+![image](https://user-images.githubusercontent.com/57697721/173224942-e8610eed-8ed2-4494-aec9-05e9e62416ab.png)
 
 <h3>4. Images and corresponding probability that predicted Right</h3>
 
-![image](https://user-images.githubusercontent.com/57697721/173183905-390127a0-8877-4d36-922f-a0b1275162b2.png)
-![image](https://user-images.githubusercontent.com/57697721/173185247-107da32e-df07-45ae-8f8c-42d3b35880ec.png)
+![image](https://user-images.githubusercontent.com/57697721/173225182-e1d502f7-8b52-491f-bbf4-fc664443a13a.png)
 
 <h3>5. Images and corresponding probability that predicted Wrong</h3>
 
-![image](https://user-images.githubusercontent.com/57697721/173184025-11672b3b-c10e-4a0a-bcef-4677accd821e.png)
+![image](https://user-images.githubusercontent.com/57697721/173225197-441aca3e-1793-47d6-a923-e8a11d7ab944.png)
 
 <br>
 <br>
